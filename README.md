@@ -20,7 +20,6 @@ Additional Notes
 ----------------
 
 *   This trivial project solely exists for me to familiarize myself with certain parts of Haskell.
-*   A list item.
 *   Optimal library/package usage is *not* a goal of this project. 
 
-    For example, I am aware that data structures exist for finite bijections (e.g. Data.Bitmap), but have chosen to implement a simple one instead for the learning experience.
+    For example, data structures exist for finite bijections (e.g. Data.Bitmap), but have chosen to implement a simple one instead for the learning experience.
