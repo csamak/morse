@@ -1,5 +1,5 @@
 --API influence from Data.Bimap (http://hackage.haskell.org/packages/archive/bimap/0.2.4/doc/html/Data-Bimap.html)
-module Data.DualMap (empty, lookupL, lookupR, fromList) where
+module Data.DualMap (DualMap, empty, lookupL, lookupR, fromList) where
 
 import qualified Data.Map   as Map
 import           Data.Tuple
